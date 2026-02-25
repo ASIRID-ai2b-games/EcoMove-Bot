@@ -1,0 +1,6 @@
+api_key.py
+venv
+.idea
+__pycache__
+.git
+.gitattributes
