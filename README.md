@@ -20,6 +20,7 @@ Among the strengths of the bot are clearly:
   3. Emphasis on sustainability: When the bot suggests to the user the most convenient means to reach
      a specific destination, priority is given to the least polluting means, specifying the amount
      of carbon dioxide and the number of trees saved by using each means.
+     
 || LINGUA: ITALIANO ||
 
 Disclaimer: EcoMove Bot è un progetto che ha vinto il settimo posto alla tappa di Bari del Campionato 
