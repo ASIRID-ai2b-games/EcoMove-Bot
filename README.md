@@ -1,4 +1,5 @@
 || LANGUAGE: ENGLISH ||
+
 Disclaimer: EcoMove Bot is a project that won seventh place at the Bari stage of the 2026 University
 AI Championship, organized by "ai2b.games" with the help of the Department of Computer Science of the
 University of Bari Aldo Moro. Credits go to the ASIRID team, composed of Gabriele Colapinto, Alessandro
@@ -20,6 +21,7 @@ Among the strengths of the bot are clearly:
      a specific destination, priority is given to the least polluting means, specifying the amount
      of carbon dioxide and the number of trees saved by using each means.
 || LINGUA: ITALIANO ||
+
 Disclaimer: EcoMove Bot è un progetto che ha vinto il settimo posto alla tappa di Bari del Campionato 
 Universitario AI 2026, organizzato da "ai2b.games" con l'aiuto del Dipartimento di Informatica dell'Università
 degli Studi di Bari Aldo Moro. I crediti vanno alla squadra ASIRID, composta da Gabriele Colapinto, Alessandro
