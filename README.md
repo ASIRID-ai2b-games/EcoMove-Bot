@@ -17,7 +17,7 @@ Among the strengths of the bot are clearly:
   2. Responsive: the use of Telegram guarantees the user, in addition to a simple, intuitive and
      functional graphic interface, the possibility of consulting the bot not only from a computer,
      but also from mobile devices;
-  3. Emphasis on sustainability: When the bot suggests to the user the most convenient means to reach
+  3. Emphasis on sustainability: when the bot suggests to the user the most convenient means to reach
      a specific destination, priority is given to the least polluting means, specifying the amount
      of carbon dioxide and the number of trees saved by using each means;
   4. The project is highly versatile and scalable to any urban environment.
@@ -41,7 +41,7 @@ Tra i punti forti del bot sono evidenti:
   2. Responsive: L’utilizzo di Telegram garantisce all’utente, oltre a un’interfaccia grafica
      semplice, intuitiva e funzionale, la possibilità di poter consultare il bot non
      solo da computer, bensì anche da dispositivi mobili;
-  3. Esaltazione della sostenibilità: Quando il bot
+  3. Esaltazione della sostenibilità: quando il bot
      suggerisce all’utente i mezzi più convenienti per raggiungere una specifica destinazione,
      viene data la priorità ai mezzi meno inquinanti, specificando la quantità di anidride carbonica e
      il numero di alberi salvati dall’utilizzo di ciascun mezzo.
